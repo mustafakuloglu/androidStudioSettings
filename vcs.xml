@@ -3,15 +3,23 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
+          <option name="url" value="http://git.telpa.com/gmobile/gallery.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
           <option name="url" value="http://git.telpa.com" />
           <option name="userName" value="mustafa.kuloglu" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://git.telpa.com/gmobile/gm-music-player-v2.git" />
+          <option name="url" value="https://github.com/HoraApps/LeafPic.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://git.telpa.com/gmobile/storeoid.git" />
+          <option name="url" value="https://github.com/zhaozeyx/ImageEditor-android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.telpa.com/gmobile/gm-assistant-v2.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
@@ -19,51 +27,7 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://git.telpa.com/gmobile/gm-file-manager.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://git.telpa.com/gmobile/imean.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://git.telpa.com/imean/imean-android.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/jackvt93/Open-Battery-Saver.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/jaltreuter/OpenBatterySaver.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/abusuioc/black-screen-battery-saver.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/felixb/smsdroid.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://github.com" />
-          <option name="userName" value="mustafakuloglu" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://git.telpa.com/gmobile/gallery.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/googlesamples/android-MediaEffects.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/HoraApps/LeafPic.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/SimpleMobileTools/Simple-Gallery.git" />
+          <option name="url" value="http://git.telpa.com/gmobile/tablet-advertise.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>

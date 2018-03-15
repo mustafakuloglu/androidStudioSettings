@@ -1,0 +1,9 @@
+<templateSet group="Kotlin">
+  <template name="toast" value="Toast.makeText($context$, &quot;$text$&quot;, Toast.LENGTH_SHORT).show()" description="create new toast" toReformat="true" toShortenFQNames="true">
+    <variable name="context" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="text" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>
