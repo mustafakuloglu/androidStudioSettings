@@ -58,6 +58,10 @@
           <option name="url" value="http://gitlab.com" />
           <option name="userName" value="kuloglu" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mustafakuloglu/recycler-view-multi-type.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Desktop" />
