@@ -3,63 +3,7 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="https://bitbucket.org/nuviadeveloperteam/acai/src/development/" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://inviomustafa@bitbucket.org/nuviadeveloperteam/acai.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/googlesamples/android-sunflower.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://mkuloglu@git.invio.com/bird-android/repo.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://mkuloglu@git.invio.com/punic-android/repo.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/HoraApps/LeafPic.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/naman14/Timber.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/Naveentp/MVVM-To-Do-App.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/mustafakuloglu/mvvm_example.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/bsautermeister/GeoFencer.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/googlesamples/android-Geofencing.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/tonyshkurenko/Geofences.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/katichka87/GeofenceTransitionChecker.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://gitlab.com" />
-          <option name="userName" value="kuloglu" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/mustafakuloglu/recycler-view-multi-type.git" />
+          <option name="url" value="https://github.com/yemeksepeti/Yemeksepeti.Androidv3.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
@@ -67,15 +11,11 @@
           <option name="userName" value="mustafakuloglu" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/googlesamples/android-ConstraintLayoutExamples.git" />
+          <option name="url" value="git@s.gl.webtogo.de:wtg/android/check2go.git" />
           <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://bitbucket.org" />
-          <option name="userName" value="inviomustafa" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Desktop" />
+    <option name="cloneParentDir" value="$USER_HOME$" />
   </component>
 </application>
