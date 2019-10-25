@@ -3,6 +3,11 @@
     <option name="FONT_SIZE" value="14" />
   </component>
   <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="kotlin" value="true" />
+      </map>
+    </option>
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
   </component>
 </application>
