@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*raw.kt" />
+    <option name="FILE_MASK" value="*test.kt" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -22,10 +22,10 @@
     <mask>*ry.kt</mask>
     <mask>*Tracker.kt</mask>
     <mask>*service.kt</mask>
-    <mask>*test.kt</mask>
     <mask>*.xml</mask>
     <mask>*viewmodel.kt</mask>
     <mask>*.kt</mask>
     <mask>*raw.kt</mask>
+    <mask>*test.kt</mask>
   </component>
 </application>
