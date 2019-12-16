@@ -24,7 +24,7 @@
     <mask>*.xml</mask>
     <mask>*viewmodel.kt</mask>
     <mask>*raw.kt</mask>
-    <mask>*.kt</mask>
     <mask>*test.kt</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
