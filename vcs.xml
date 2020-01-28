@@ -14,6 +14,10 @@
           <option name="url" value="git@s.gl.webtogo.de:wtg/android/check2go.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gl.webtogo.de" />
+          <option name="userName" value="mkuloglu" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$" />
