@@ -31,6 +31,7 @@
     <mask>*service.kt</mask>
     <mask>*raw.kt</mask>
     <mask>*.gradle</mask>
+    <mask>*dao.kt</mask>
     <mask>*.kt</mask>
   </component>
 </application>
